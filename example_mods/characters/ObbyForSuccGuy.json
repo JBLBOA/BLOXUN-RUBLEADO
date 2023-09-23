@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-30,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-60,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blox",
+	"position": [
+		-890,
+		-236
+	],
+	"healthicon": "icon-blox",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		225,
+		176
+	],
+	"camera_position": [
+		480,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

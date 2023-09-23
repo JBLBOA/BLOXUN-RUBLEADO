@@ -1,0 +1,32 @@
+{
+	"storyName": "evade the pou",
+	"difficulties": "Normal",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"evade-them",
+			"munci",
+			[
+				146,
+				133,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week4"
+}

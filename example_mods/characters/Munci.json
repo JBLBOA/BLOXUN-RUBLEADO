@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-16,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				66,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-93,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Munci",
+	"position": [
+		-680,
+		120
+	],
+	"healthicon": "munci",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		60
+	],
+	"camera_position": [
+		-190,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 2.9
+}

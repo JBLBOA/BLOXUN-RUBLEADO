@@ -1,0 +1,32 @@
+{
+	"storyName": "...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"evade-them-death-mix",
+			"munci",
+			[
+				95,
+				55,
+				75
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week6",
+	"hiddenUntilUnlocked": false
+}

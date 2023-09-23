@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BLOXFRIEND.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BloxDeathOne0000" x="0" y="0" width="307" height="427" frameX="-44" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0001" x="0" y="0" width="307" height="427" frameX="-44" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0002" x="307" y="0" width="307" height="428" frameX="-44" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0003" x="307" y="0" width="307" height="428" frameX="-44" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0004" x="614" y="0" width="308" height="432" frameX="-43" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0005" x="614" y="0" width="308" height="432" frameX="-43" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0006" x="922" y="0" width="308" height="435" frameX="-43" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0007" x="922" y="0" width="308" height="435" frameX="-43" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0008" x="1230" y="0" width="319" height="439" frameX="-31" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0009" x="1549" y="0" width="375" height="427" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0010" x="1549" y="0" width="375" height="427" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0011" x="1924" y="0" width="375" height="421" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0012" x="1924" y="0" width="375" height="421" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0013" x="2299" y="0" width="375" height="419" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0014" x="2674" y="0" width="375" height="419" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0015" x="2674" y="0" width="375" height="419" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0016" x="3049" y="0" width="375" height="420" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0017" x="3049" y="0" width="375" height="420" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0018" x="3424" y="0" width="375" height="422" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0019" x="0" y="439" width="375" height="431" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0020" x="0" y="439" width="375" height="431" frameX="0" frameY="-130" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0021" x="375" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0022" x="750" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0023" x="1125" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0024" x="1500" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0025" x="1875" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0026" x="2250" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0027" x="2625" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0028" x="3000" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathOne0029" x="3375" y="439" width="375" height="557" frameX="0" frameY="0" frameWidth="375" frameHeight="569"/>
+	<SubTexture name="BloxDeathThree0000" x="0" y="996" width="375" height="562"/>
+	<SubTexture name="BloxDeathThree0001" x="0" y="996" width="375" height="562"/>
+	<SubTexture name="BloxDeathThree0002" x="375" y="996" width="375" height="559" frameX="0" frameY="-3" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0003" x="375" y="996" width="375" height="559" frameX="0" frameY="-3" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0004" x="750" y="996" width="375" height="558" frameX="0" frameY="-4" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0005" x="750" y="996" width="375" height="558" frameX="0" frameY="-4" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0006" x="1125" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0007" x="1125" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0008" x="1500" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0009" x="1500" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0010" x="1875" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0011" x="1875" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0012" x="2250" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0013" x="2250" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0014" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0015" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0016" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0017" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0018" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0019" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0020" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0021" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0022" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0023" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0024" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0025" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0026" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0027" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0028" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0029" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0030" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0031" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0032" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0033" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0034" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0035" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0036" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0037" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0038" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0039" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0040" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0041" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0042" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0043" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0044" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0045" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0046" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0047" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0048" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathThree0049" x="2625" y="996" width="375" height="557" frameX="0" frameY="-5" frameWidth="375" frameHeight="562"/>
+	<SubTexture name="BloxDeathTwo0000" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0001" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0002" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0003" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0004" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0005" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0006" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0007" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0008" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0009" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0010" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0011" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0012" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0013" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0014" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0015" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0016" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0017" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0018" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0019" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0020" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0021" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0022" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0023" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0024" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0025" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0026" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0027" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+	<SubTexture name="BloxDeathTwo0028" x="3000" y="996" width="375" height="557"/>
+	<SubTexture name="BloxDeathTwo0029" x="3375" y="996" width="373" height="556" frameX="-2" frameY="0" frameWidth="375" frameHeight="557"/>
+</TextureAtlas>

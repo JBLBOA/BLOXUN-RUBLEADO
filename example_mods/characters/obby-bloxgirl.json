@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "Dance_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				9
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "Dance_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				21
+			],
+			"anim": "cheer",
+			"fps": 20,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				14
+			],
+			"anim": "scared",
+			"fps": 20,
+			"name": "GF FEAR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				12
+			],
+			"anim": "sad",
+			"fps": 20,
+			"name": "gf sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BloxxGF",
+	"position": [
+		-40,
+		200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-240,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

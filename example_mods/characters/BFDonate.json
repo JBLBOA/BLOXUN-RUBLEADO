@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-157,
+				-173
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right_Donate_Bf"
+		},
+		{
+			"offsets": [
+				-118,
+				-137
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left_Donate_Bf"
+		},
+		{
+			"offsets": [
+				-85,
+				-97
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down_Donate_Bf"
+		},
+		{
+			"offsets": [
+				-83,
+				-79
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up_Donate_Bf"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle_Donate_Bf",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Donate_Bf",
+	"position": [
+		-1080,
+		40
+	],
+	"healthicon": "bloxfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		170,
+		255
+	],
+	"camera_position": [
+		-120,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

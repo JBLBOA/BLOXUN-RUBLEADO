@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pizzah Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pizzah Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pizzah Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pizzah Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pizzah Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				336
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Pizzah Emote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pizzah",
+	"position": [
+		-220,
+		130
+	],
+	"healthicon": "pizzaguy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		135
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "its time for the party...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"party-time",
+			"party",
+			[
+				255,
+				215,
+				175
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week7",
+	"hiddenUntilUnlocked": false
+}

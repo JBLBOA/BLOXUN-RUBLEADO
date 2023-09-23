@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				172,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BloxDeathOne"
+		},
+		{
+			"offsets": [
+				172,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "BloxDeathTwo"
+		},
+		{
+			"offsets": [
+				172,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BloxDeathThree"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BLOXFRIEND-DEAD",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bloxfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		300,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

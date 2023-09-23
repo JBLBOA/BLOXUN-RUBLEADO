@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloxxGF.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance_Left0000" x="0" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0001" x="0" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0002" x="369" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0003" x="369" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0004" x="738" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0005" x="738" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0006" x="1107" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0007" x="1107" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0008" x="1476" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0009" x="1476" y="0" width="369" height="524"/>
+	<SubTexture name="Dance_Left0010" x="0" y="524" width="369" height="524"/>
+	<SubTexture name="Dance_Left0011" x="0" y="524" width="369" height="524"/>
+	<SubTexture name="Dance_Left0012" x="0" y="524" width="369" height="524"/>
+	<SubTexture name="Dance_Left0013" x="0" y="524" width="369" height="524"/>
+	<SubTexture name="Dance_Right0000" x="369" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0001" x="369" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0002" x="715" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0003" x="715" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0004" x="1061" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0005" x="1061" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0006" x="1407" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0007" x="1407" y="524" width="346" height="523"/>
+	<SubTexture name="Dance_Right0008" x="0" y="1048" width="346" height="523"/>
+	<SubTexture name="Dance_Right0009" x="0" y="1048" width="346" height="523"/>
+	<SubTexture name="Dance_Right0010" x="346" y="1048" width="346" height="523"/>
+	<SubTexture name="Dance_Right0011" x="346" y="1048" width="346" height="523"/>
+	<SubTexture name="Dance_Right0012" x="346" y="1048" width="346" height="523"/>
+	<SubTexture name="Dance_Right0013" x="346" y="1048" width="346" height="523"/>
+</TextureAtlas>

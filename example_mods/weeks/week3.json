@@ -1,0 +1,41 @@
+{
+	"storyName": "Too Cold...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"rise-on-the-top",
+			"steepguy",
+			[
+				155,
+				195,
+				215
+			]
+		],
+		[
+			"steepest-of-the-steeps",
+			"steepguy",
+			[
+				155,
+				195,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week3",
+	"hiddenUntilUnlocked": false
+}
